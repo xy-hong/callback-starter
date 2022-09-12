@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "callback",
+      "type": "com.example.callbackstarter.CallbackProperties",
+      "sourceType": "com.example.callbackstarter.CallbackProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "callback.worker",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.callbackstarter.CallbackProperties",
+      "defaultValue": 1
+    }
+  ]
+}
